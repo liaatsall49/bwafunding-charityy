@@ -9,7 +9,6 @@
     let title = "Charity";
 </script>
 
-
 <Header />
 <Welcome />
 <CharityList {charities} />
